@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
