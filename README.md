@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
