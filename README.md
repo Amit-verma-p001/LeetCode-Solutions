@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -61,4 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
