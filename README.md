@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0989-add-to-array-form-of-integer](https://github.com/Amit-verma-p001/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
